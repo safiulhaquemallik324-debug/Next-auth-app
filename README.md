@@ -16,7 +16,7 @@ A modern, full-stack authentication system built with **Next.js** and **NextAuth
 - 📱 **Fully Responsive** — works smoothly across desktop, tablet, and mobile screens
 - 🎨 **Modern Dark UI** — custom-designed gradient interface with Poppins typography
 
-- 🔗 **Live Demo:** [your-app.vercel.app](https://your-app.vercel.app)
+- 🔗 **Live Demo:** (https://next-auth-app-ivory-xi.vercel.app/login?callbackUrl=%2F)
 
 ## 🛠️ Tech Stack
 
